@@ -29,10 +29,8 @@ class CityAdapter(
             textViewCity.text = cityModel.cityName
             if (cityModel.cityIsSelected) {
                 cardViewCity.setCardBackgroundColor(Color.parseColor("#6200EE"))
-                textViewCity.setTextColor("#FFFFFF".toInt())
             } else {
                 cardViewCity.setCardBackgroundColor(Color.parseColor("#FFFFFF"))
-                textViewCity.setTextColor("#000000".toInt())
             }
         }
 
