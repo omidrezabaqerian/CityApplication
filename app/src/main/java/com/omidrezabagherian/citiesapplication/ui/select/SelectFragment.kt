@@ -1,4 +1,4 @@
-package com.omidrezabagherian.citiesapplication.ui.second
+package com.omidrezabagherian.citiesapplication.ui.select
 
 import android.os.Bundle
 import android.view.View

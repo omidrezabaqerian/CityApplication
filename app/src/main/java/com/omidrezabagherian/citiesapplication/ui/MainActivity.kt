@@ -2,7 +2,7 @@ package com.omidrezabagherian.citiesapplication.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.omidrezabagherian.citiesapplication.ui.first.CityFragment
+import com.omidrezabagherian.citiesapplication.ui.city.CityFragment
 import com.omidrezabagherian.citiesapplication.R
 
 class MainActivity : AppCompatActivity() {
